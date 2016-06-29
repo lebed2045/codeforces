@@ -1,0 +1,45 @@
+хакер
+test 7: лучше тесты, без изменения механики
+
+banner (Popup, все страницы, 2):
+all test are equally efficiently.
+; 5 sec - conversion 2,2%
+; 20 sec - conversion 2.6%
+; 38sec + 42% scroll - 3.9% (bigger conv but less impressions)
+;;very good conv from ads, no other obvious correlation
+
+bottomBar (test 3: плашка 0) //could be wrong stats cause text was changed 
+;all (PC) - 10-15 sec, 0.8%
+;all(Mob) - 5-10 sec, 1.3%
+;;?smart(search+ads)  10 sec much better
+
+//partition personalization (~1400 impression)
+;people - 0!
+;soft - 1
+;hardware - 0!
+;mobile - 0!
+;hack - 15sec - 1.5%, 600 impressions
+;;too few data for finding correlations
+;viruses - 1
+;coding -2
+;coding(2) - 0
+;linuxoid - 0
+;admin - 1
+;geek - 0
+=> doesn’t work except for hack part.
+
+bottomBar(test 3: плашка 1)
+;all (PC) - 20 sec - 0.9%
+;all(Mob) - 10-20 sec - 0.9%
+
+bottomBar(test 5: плашка 0)
+;all(PC) - 5-30 sec - 0.6%
+;;ads + social better under 5 sec
+;all(Mob) - 5-20 sec - 0.5-0.8%
+;;too few data for correlations
+
+
+=>banner 20 sec - best option, 80% users
+
+=>bottomBar - mob - 10 sec, pc - 20 sec
+=>bottomBar in hack partition - 15 sec

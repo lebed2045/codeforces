@@ -1,0 +1,2003 @@
+<class 'str'>
+Encountered some data  : 
+
+Encountered some data  : 
+
+Encountered a start tag: html []
+Encountered some data  : 
+
+Encountered a start tag: head []
+Encountered some data  : 
+    
+Encountered a start tag: meta [('http-equiv', 'content-type'), ('content', 'text/html; charset=UTF-8')]
+Encountered some data  : 
+    
+Encountered a start tag: meta [('name', 'X-Csrf-Token'), ('content', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('id', 'viewport'), ('name', 'viewport'), ('content', 'width=device-width, initial-scale=0.01')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery-1.8.3.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'application/javascript')]
+Encountered some data  : 
+        function adjustViewport() {
+            var screenWidthPx = Math.min($(window).width(), window.screen.width);
+            var siteWidthPx = 1100; // min width of site
+            var ratio = Math.min(screenWidthPx / siteWidthPx, 1.0);
+            var viewport = "width=device-width, initial-scale=" + ratio;
+            $('#viewport').attr('content', viewport);
+            var style = $('<style>html * { max-height: 1000000px; }</style>');
+            $('html > head').append(style);
+        }
+
+        if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+            adjustViewport();
+        }
+    
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: meta [('http-equiv', 'pragma'), ('content', 'no-cache')]
+Encountered some data  : 
+    
+Encountered a start tag: meta [('http-equiv', 'expires'), ('content', '-1')]
+Encountered some data  : 
+    
+Encountered a start tag: meta [('http-equiv', 'profileName'), ('content', 'c2')]
+Encountered some data  : 
+    
+Encountered a start tag: meta [('name', 'google-site-verification'), ('content', 'OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('property', 'fb:admins'), ('content', '100001352546622')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('property', 'og:image'), ('content', 'http://st.codeforces.com/s/95142/images/codeforces-telegram-square.png')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'image_src'), ('href', 'http://st.codeforces.com/s/95142/images/codeforces-telegram-square.png')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: meta [('property', 'og:title'), ('content', 'Problem - B - Codeforces')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('property', 'og:description'), ('content', '')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+    
+Encountered a start tag: meta [('property', 'og:site_name'), ('content', 'Codeforces')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+    
+    
+Encountered a start tag: meta [('name', 'cc'), ('content', '2a6f0955c1c253ff7ca5f9e45d1748cc31fb0ecc')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+    
+    
+Encountered a start tag: meta [('name', 'utc_offset'), ('content', '+03:00')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('name', 'verify-reformal'), ('content', 'f56f99fd7e087fb6ccb48ef2')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: title []
+Encountered some data  : Problem - B - Codeforces
+Encountered an end tag : title
+Encountered some data  : 
+        
+Encountered a start tag: meta [('name', 'description'), ('content', 'Codeforces. Programming competitions and contests, programming community')]
+Encountered an end tag : meta
+Encountered some data  : 
+        
+Encountered a start tag: meta [('name', 'keywords'), ('content', 'programming algorithm contest competition informatics olympiads c++ java graphs vkcup')]
+Encountered an end tag : meta
+Encountered some data  : 
+    
+Encountered a start tag: meta [('name', 'robots'), ('content', 'index, follow')]
+Encountered an end tag : meta
+Encountered some data  : 
+
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/font-awesome.min.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+
+        
+Encountered a start tag: link [('href', '//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic'), ('rel', 'stylesheet'), ('type', 'text/css')]
+Encountered some data  : 
+        
+Encountered a start tag: link [('href', '//fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic'), ('rel', 'stylesheet'), ('type', 'text/css')]
+Encountered some data  : 
+
+
+    
+Encountered a start tag: link [('rel', 'shortcut icon'), ('type', 'image/png'), ('href', 'http://st.codeforces.com/s/95142/favicon.png')]
+Encountered some data  : 
+
+    
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/prettify.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/clear.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/style.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/ttypography.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/problem-statement.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/second-level-menu.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/roundbox.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/datatable.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/table-form.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/topic.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/jquery.jgrowl.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/facebox.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/jquery.wysiwyg.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/jquery.autocomplete.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/codeforces.datepick.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/colorbox.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/jquery.drafts.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+        
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/community.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+        
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/status.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+        
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/css/sidebar-menu.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/prettify/prettify.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/moment.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/pushstream.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.easing.min.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.lavalamp.min.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.jgrowl.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.swipe.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/facebox.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.wysiwyg.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/controls/wysiwyg.colorpicker.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/controls/wysiwyg.table.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/controls/wysiwyg.image.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/controls/wysiwyg.link.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.autocomplete.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.datepick.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.ie6blocker.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.colorbox-min.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.ba-bbq.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/jquery.drafts.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/sjcl.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', '/scripts/16738126045def1589cf7a05e0f4d884/en/codeforces-options.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/js/codeforces.js?v=20160131')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered some data  : 
+
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/markitup/skins/markitup/style.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+    
+Encountered a start tag: link [('rel', 'stylesheet'), ('href', 'http://st.codeforces.com/s/95142/markitup/sets/markdown/style.css'), ('type', 'text/css'), ('charset', 'utf-8')]
+Encountered an end tag : link
+Encountered some data  : 
+
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', '//yandex.st/share/share.js'), ('charset', 'utf-8')]
+Encountered an end tag : script
+Encountered some data  : 
+
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/markitup/jquery.markitup.js')]
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript'), ('src', 'http://st.codeforces.com/s/95142/markitup/sets/markdown/set.js')]
+Encountered an end tag : script
+Encountered some data  : 
+
+    
+Encountered some data  : 
+
+
+
+Encountered an end tag : head
+Encountered some data  : 
+
+Encountered a start tag: body []
+Encountered a start tag: span [('style', 'display:none;'), ('class', 'csrf-token'), ('data-csrf', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : span
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'button-up'), ('style', 'display: none; opacity: 0.7; width: 50px; height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 3.0rem;')]
+Encountered a start tag: i [('class', 'icon-circle-arrow-up')]
+Encountered an end tag : i
+Encountered an end tag : div
+Encountered some data  : 
+
+
+Encountered some data  : 
+
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+    var queryMobile = Codeforces.queryString.mobile;
+    if (queryMobile === "true" || queryMobile === "false") {
+        Codeforces.putToStorage("useMobile", queryMobile == "true");
+    } else {
+        var useMobile = Codeforces.getFromStorage("useMobile");
+        if (useMobile === true || useMobile === false) {
+            if (useMobile != false) {
+                Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", useMobile));
+            }
+        }
+    }
+
+Encountered an end tag : script
+Encountered some data  : 
+
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+
+Encountered an end tag : script
+Encountered some data  : 
+
+    
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+        $(document).ready(function () {
+    (function () {
+        jQuery.expr[':'].containsCI = function(elem, index, match) {
+            return !match || !match.length || match.length < 4 || !match[3] || (
+                    elem.textContent || elem.innerText || jQuery(elem).text() || ''
+            ).toLowerCase().indexOf(match[3].toLowerCase()) >= 0;
+        }
+    }(jQuery));
+
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.getCodeforcesServerTime = function(callback) {
+        $.post("/data/time", {}, callback, "json");
+    }
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    setTimeout(function() {
+        $(".second-level-menu-list").lavaLamp({
+            fx: "backout",
+            speed: 1000
+        });
+    }, 0);
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+    function showAnnouncements(json) {
+        info("j=" + JSON.stringify(json));
+
+        if (json.t != "a") {
+            return;
+        }
+        console.log("Got announcement from channel");
+        setTimeout(function() {
+            Codeforces.showAnnouncements(json.d, "en");
+        }, Math.random() * 500);
+    }
+    if (Codeforces.getParticipantChannel()) {
+        Codeforces.subscribe(Codeforces.getParticipantChannel(), function(json) {
+            showAnnouncements(json);
+        });
+    }
+
+    if (Codeforces.getContestChannel()) {
+        Codeforces.subscribe(Codeforces.getContestChannel(), function(json) {
+            showAnnouncements(json);
+        });
+    }
+
+    if (Codeforces.getGlobalChannel()) {
+        Codeforces.subscribe(Codeforces.getGlobalChannel(), function(json) {
+            showAnnouncements(json);
+        });
+    }
+
+    if (Codeforces.getUserChannel()) {
+        Codeforces.subscribe(Codeforces.getUserChannel(), function(json) {
+            showAnnouncements(json);
+        });
+    }
+
+    $(".clickable-title").click(function() {
+        Codeforces.alert($(this).attr("title"));
+    }).css("position", "relative").css("bottom", "3px");
+
+
+    Codeforces.reformatTimes();
+    Codeforces.initializePubSub();
+
+    Codeforces.setupSpoilers();
+        });
+    
+Encountered an end tag : script
+Encountered some data  : 
+
+
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-743380-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = (document.location.protocol == 'https:' ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+Encountered an end tag : script
+Encountered some data  : 
+
+
+
+Encountered a start tag: div [('id', 'body')]
+Encountered some data  : 
+        
+
+Encountered a start tag: div [('id', 'header'), ('style', 'position: relative;')]
+Encountered some data  : 
+    
+Encountered a start tag: div [('style', 'float:left;')]
+Encountered some data  : 
+            
+Encountered a start tag: a [('href', '/')]
+Encountered a start tag: img [('src', 'http://st.codeforces.com/s/95142/images/codeforces-logo-with-telegram.png')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered some data  : 
+
+    
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered a start tag: div [('class', 'lang-chooser')]
+Encountered some data  : 
+        
+Encountered a start tag: div [('style', 'text-align: right;')]
+Encountered some data  : 
+            
+Encountered a start tag: a [('href', '?locale=en')]
+Encountered a start tag: img [('src', 'http://st.codeforces.com/s/95142/images/flags/24/gb.png'), ('title', 'In English'), ('alt', 'In English')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered some data  : 
+            
+Encountered a start tag: a [('href', '?locale=ru')]
+Encountered a start tag: img [('src', 'http://st.codeforces.com/s/95142/images/flags/24/ru.png'), ('title', 'По-русски'), ('alt', 'По-русски')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: div []
+Encountered some data  : 
+                    
+Encountered a start tag: a [('href', '/enter')]
+Encountered some data  : Enter
+Encountered an end tag : a
+Encountered some data  : 
+                     | 
+                    
+Encountered a start tag: a [('href', '/register')]
+Encountered some data  : Register
+Encountered an end tag : a
+Encountered some data  : 
+                    
+        
+Encountered an end tag : div
+Encountered some data  : 
+
+
+
+    
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered a start tag: br [('style', 'clear: both;')]
+Encountered an end tag : br
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+
+        
+
+    
+Encountered a start tag: div [('class', 'roundbox menu-box'), ('style', '')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lb')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rb')]
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered a start tag: div [('class', 'menu-list-container')]
+Encountered some data  : 
+    
+Encountered a start tag: ul [('class', 'menu-list main-menu-list')]
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/')]
+Encountered some data  : Home
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', 'current')]
+Encountered a start tag: a [('href', '/contests')]
+Encountered some data  : Contests
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/gyms')]
+Encountered some data  : Gym
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/problemset')]
+Encountered some data  : Problemset
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/groups')]
+Encountered some data  : Groups
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/ratings')]
+Encountered some data  : Rating
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/api/help')]
+Encountered some data  : API
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/rcc2016')]
+Encountered some data  : RCC 
+Encountered a start tag: img [('class', 'icon'), ('src', 'http://st.codeforces.com/images/icons/cup.png')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/vkcup2016')]
+Encountered some data  : VK Cup 
+Encountered a start tag: img [('class', 'icon'), ('src', 'http://st.codeforces.com/images/icons/cup.png')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+                
+Encountered a start tag: li [('class', '')]
+Encountered a start tag: a [('href', '/croc2016')]
+Encountered some data  : CROC 
+Encountered a start tag: img [('class', 'icon'), ('src', 'http://st.codeforces.com/images/icons/cup.png')]
+Encountered an end tag : img
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+    
+Encountered an end tag : ul
+Encountered some data  : 
+    
+Encountered a start tag: form [('method', 'post'), ('action', '/search')]
+Encountered a start tag: input [('type', 'hidden'), ('name', 'csrf_token'), ('value', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : input
+Encountered some data  : 
+        
+Encountered a start tag: input [('class', 'search'), ('name', 'query'), ('data-isplaceholder', 'true'), ('value', '')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered an end tag : form
+Encountered some data  : 
+    
+Encountered a start tag: br [('style', 'clear: both;')]
+Encountered an end tag : br
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+    
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+        $(document).ready(function () {
+            $("input.search").focus(function () {
+                if ($(this).attr("data-isPlaceholder") === "true") {
+                    $(this).val("");
+                    $(this).removeAttr("data-isPlaceholder");
+                }
+            });
+        });
+    
+Encountered an end tag : script
+Encountered some data  : 
+            
+Encountered a start tag: br [('style', 'height: 3em; clear: both;')]
+Encountered an end tag : br
+Encountered some data  : 
+
+        
+Encountered a start tag: div [('style', 'position: relative;')]
+Encountered some data  : 
+                        
+Encountered a start tag: div [('id', 'sidebar')]
+Encountered some data  : 
+
+    
+Encountered a start tag: div [('class', 'roundbox sidebox'), ('style', '')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: table [('class', 'rtable ')]
+Encountered some data  : 
+            
+Encountered a start tag: tbody []
+Encountered some data  : 
+                
+Encountered a start tag: tr []
+Encountered some data  : 
+                            
+Encountered a start tag: th [('class', 'left'), ('style', 'width:100%;')]
+Encountered a start tag: a [('style', 'color: black'), ('href', '/contest/660')]
+Encountered some data  : Educational Codeforces Round 11
+Encountered an end tag : a
+Encountered an end tag : th
+Encountered some data  : 
+                
+Encountered an end tag : tr
+Encountered some data  : 
+                    
+Encountered a start tag: tr []
+Encountered some data  : 
+                                
+Encountered a start tag: td [('class', 'left bottom'), ('colspan', '1')]
+Encountered a start tag: span [('class', 'contest-state-phase')]
+Encountered some data  : Finished
+Encountered an end tag : span
+Encountered an end tag : td
+Encountered some data  : 
+                    
+Encountered an end tag : tr
+Encountered some data  : 
+            
+Encountered an end tag : tbody
+Encountered some data  : 
+        
+Encountered an end tag : table
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+
+    
+Encountered a start tag: div [('class', 'roundbox sidebox'), ('style', '')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: div [('class', 'caption titled')]
+Encountered some data  :  Practice?
+            
+Encountered a start tag: div [('class', 'top-links')]
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: div []
+Encountered some data  : 
+    
+Encountered a start tag: div [('style', 'margin:1em;font-size:0.8em;')]
+Encountered some data  : 
+        Want to solve the contest problems after the official contest ends? Just register for practice and you will be able to submit solutions.
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+    
+Encountered a start tag: div [('style', 'text-align:center;margin:1em;')]
+Encountered some data  : 
+    
+Encountered a start tag: form [('action', ''), ('method', 'post')]
+Encountered a start tag: input [('type', 'hidden'), ('name', 'csrf_token'), ('value', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : input
+Encountered some data  : 
+        
+Encountered a start tag: input [('type', 'hidden'), ('name', 'action'), ('value', 'registerForPractice')]
+Encountered an end tag : input
+Encountered some data  : 
+        
+Encountered a start tag: input [('type', 'submit'), ('name', 'submit'), ('value', 'Register for practice'), ('style', 'padding:0 0.5em;')]
+Encountered some data  : 
+    
+Encountered an end tag : form
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  :     
+
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+    
+Encountered a start tag: div [('class', 'roundbox sidebox'), ('style', '')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: div [('class', 'caption titled')]
+Encountered some data  :  Virtual participation
+            
+Encountered a start tag: div [('class', 'top-links')]
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+
+
+Encountered a start tag: div []
+Encountered some data  : 
+    
+Encountered a start tag: div [('style', 'margin:1em;font-size:0.8em;')]
+Encountered some data  : 
+        Virtual contest is a way to take part in past contest, as close as possible to participation on time. It is supported only ACM-ICPC mode for virtual contests.
+
+If you've seen these problems, a virtual contest is not for you - solve these problems in the archive.
+
+If you just want to solve some problem from a contest, a virtual contest is not for you - solve this problem in the archive.
+
+Never use someone else's code, read the tutorials or communicate with other person during a virtual contest.
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+    
+Encountered a start tag: div [('style', 'text-align:center;margin:1em;')]
+Encountered some data  : 
+        
+Encountered a start tag: form [('action', '/contest/660/virtual'), ('method', 'get')]
+Encountered some data  : 
+            
+Encountered a start tag: input [('type', 'submit'), ('name', 'submit'), ('value', 'Start virtual contest'), ('style', 'padding:0 0.5em;')]
+Encountered some data  : 
+        
+Encountered an end tag : form
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+
+    
+Encountered a start tag: div [('class', 'roundbox sidebox'), ('style', '')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: div [('class', 'caption titled')]
+Encountered some data  :  Problem tags
+            
+Encountered a start tag: div [('class', 'top-links')]
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: div [('style', 'padding: 0.5em;')]
+Encountered some data  : 
+    
+Encountered a start tag: div [('class', 'roundbox '), ('style', 'margin:2px; padding:0 3px 2px 3px; background-color:#f0f0f0;float:left;')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-lb')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'roundbox-rb')]
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: span [('class', 'tag-box'), ('style', 'font-size:1.2rem;'), ('title', 'Implementation problems, programming technics, simulation')]
+Encountered some data  : 
+    implementation
+
+Encountered an end tag : span
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered a start tag: div [('style', 'clear:both;text-align:right;font-size:1.1rem;')]
+Encountered some data  : 
+            
+Encountered a start tag: span [('title', 'Please login into the Codeforces'), ('class', 'notice')]
+Encountered some data  : No tag edit access
+Encountered an end tag : span
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered an end tag : div
+Encountered some data  : 
+
+
+Encountered a start tag: form [('id', 'addTagForm'), ('action', '/data/problemTags'), ('method', 'post'), ('style', 'display:none;')]
+Encountered a start tag: input [('type', 'hidden'), ('name', 'csrf_token'), ('value', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'action'), ('type', 'hidden'), ('value', 'addTag')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'problemId'), ('type', 'hidden'), ('value', '54411')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'tagName'), ('type', 'hidden'), ('value', '')]
+Encountered an end tag : input
+Encountered some data  : 
+
+Encountered an end tag : form
+Encountered some data  : 
+
+
+Encountered a start tag: form [('id', 'removeTagForm'), ('action', '/data/problemTags'), ('method', 'post'), ('style', 'display:none;')]
+Encountered a start tag: input [('type', 'hidden'), ('name', 'csrf_token'), ('value', '91d15e23210d4db1fc267c2959ab3aec')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'action'), ('type', 'hidden'), ('value', 'removeTag')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'problemId'), ('type', 'hidden'), ('value', '54411')]
+Encountered an end tag : input
+Encountered some data  : 
+    
+Encountered a start tag: input [('name', 'tagName'), ('type', 'hidden'), ('value', '')]
+Encountered an end tag : input
+Encountered some data  : 
+
+Encountered an end tag : form
+Encountered some data  : 
+
+
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+    $(".tag-box img").click(function () {
+        var tagName = $(this).attr("value");
+        Codeforces.confirm("Are you sure you want to remove this tag?", function () {
+            $("#removeTagForm input[name=tagName]").val(tagName);
+            $("#removeTagForm").submit();
+        }, function () {
+        }, "Yes", "No");
+    });
+
+    $("#addTagLink").click(function () {
+        $(this).hide();
+        $("#addTagLabel").show();
+        return false;
+    });
+
+    $("#addTagSelect").change(function () {
+        var tagName = $(this).val();
+        if (tagName === "") {
+            $("#addTagLabel").hide();
+            $("#addTagLink").show();
+        } else {
+            $("#addTagForm input[name=tagName]").val(tagName);
+            $("#addTagForm").submit();
+        }
+    });
+
+Encountered an end tag : script
+Encountered some data  : 
+
+
+Encountered a start tag: style [('type', 'text/css')]
+Encountered some data  : 
+#new-resource-form tr td {
+padding-top: 0.5em;
+}
+#new-resource-form input:not([type="submit"]) {
+font-size: 0.8em;
+}
+#new-resource-form select {
+font-size: 0.8em;
+}
+
+Encountered an end tag : style
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'roundbox sidebox sidebar-menu'), ('style', '')]
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'roundbox-lt')]
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'roundbox-rt')]
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'caption titled')]
+Encountered some data  :  Contest materials
+
+Encountered a start tag: div [('class', 'top-links')]
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered a start tag: ul []
+Encountered some data  : 
+
+Encountered a start tag: li []
+Encountered some data  : 
+
+Encountered a start tag: span []
+Encountered some data  : 
+
+Encountered a start tag: a [('href', '/blog/entry/44240'), ('title', 'Educational Codeforces Round 11'), ('target', '_blank')]
+Encountered some data  : Announcement
+Encountered an end tag : a
+Encountered some data  : 
+
+Encountered an end tag : span
+Encountered some data  : 
+
+Encountered a start tag: span [('style', 'float: right;')]
+Encountered some data  : 
+
+Encountered a start tag: img [('class', 'delete-resource-link'), ('resourceid', '4258'), ('resourcename', 'Educational Codeforces Round 11'), ('resourcemanual', 'true'), ('src', 'http://st.codeforces.com/s/95142/images/icons/close-10x10.png'), ('style', 'position: relative;bottom: -1px;left: 1px;cursor: pointer;')]
+Encountered an end tag : img
+Encountered some data  : 
+
+Encountered an end tag : span
+Encountered some data  : 
+
+Encountered a start tag: div [('style', 'clear: both;')]
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : li
+Encountered some data  : 
+
+Encountered a start tag: li []
+Encountered some data  : 
+
+Encountered a start tag: span []
+Encountered some data  : 
+
+Encountered a start tag: a [('href', '/blog/entry/44259'), ('title', 'Editorial of Educational Codeforces Round 11'), ('target', '_blank')]
+Encountered some data  : Tutorial
+Encountered an end tag : a
+Encountered some data  : 
+
+Encountered an end tag : span
+Encountered some data  : 
+
+Encountered a start tag: span [('style', 'float: right;')]
+Encountered some data  : 
+
+Encountered a start tag: img [('class', 'delete-resource-link'), ('resourceid', '4257'), ('resourcename', 'Editorial of Educational Codeforces Round 11'), ('resourcemanual', 'true'), ('src', 'http://st.codeforces.com/s/95142/images/icons/close-10x10.png'), ('style', 'position: relative;bottom: -1px;left: 1px;cursor: pointer;')]
+Encountered an end tag : img
+Encountered some data  : 
+
+Encountered an end tag : span
+Encountered some data  : 
+
+Encountered a start tag: div [('style', 'clear: both;')]
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : li
+Encountered some data  : 
+
+Encountered an end tag : ul
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered an end tag : div
+Encountered some data  : 
+                        
+Encountered a start tag: div [('id', 'pageContent'), ('class', 'content-with-sidebar')]
+Encountered some data  : 
+                    
+Encountered a start tag: div [('class', 'second-level-menu')]
+Encountered some data  : 
+
+Encountered a start tag: ul [('class', 'second-level-menu-list')]
+Encountered some data  : 
+        
+Encountered a start tag: li [('class', 'current selectedLava')]
+Encountered a start tag: a [('href', '/contest/660')]
+Encountered some data  : Problems
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/submit')]
+Encountered some data  : Submit Code
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/my')]
+Encountered some data  : My Submissions
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/status')]
+Encountered some data  : Status
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/hacks')]
+Encountered some data  : Hacks
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/standings')]
+Encountered some data  : Standings
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+        
+Encountered a start tag: li []
+Encountered a start tag: a [('href', '/contest/660/customtest')]
+Encountered some data  : Custom Invocation
+Encountered an end tag : a
+Encountered an end tag : li
+Encountered some data  : 
+
+Encountered an end tag : ul
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+
+Encountered a start tag: div [('class', 'problemindexholder'), ('problemindex', 'B')]
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'ttypography')]
+Encountered a start tag: div [('class', 'problem-statement')]
+Encountered a start tag: div [('class', 'header')]
+Encountered a start tag: div [('class', 'title')]
+Encountered some data  : B. Seating On Bus
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'time-limit')]
+Encountered a start tag: div [('class', 'property-title')]
+Encountered some data  : time limit per test
+Encountered an end tag : div
+Encountered some data  : 1 second
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'memory-limit')]
+Encountered a start tag: div [('class', 'property-title')]
+Encountered some data  : memory limit per test
+Encountered an end tag : div
+Encountered some data  : 256 megabytes
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'input-file')]
+Encountered a start tag: div [('class', 'property-title')]
+Encountered some data  : input
+Encountered an end tag : div
+Encountered some data  : standard input
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'output-file')]
+Encountered a start tag: div [('class', 'property-title')]
+Encountered some data  : output
+Encountered an end tag : div
+Encountered some data  : standard output
+Encountered an end tag : div
+Encountered an end tag : div
+Encountered a start tag: div []
+Encountered a start tag: p []
+Encountered some data  : Consider 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 2
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  rows of the seats in a bus. 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  rows of the seats on the left and 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  rows of the seats on the right. Each row can be filled by two people. So the total capacity of the bus is 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 4
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : .
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered some data  : Consider that 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  (
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered some data  :  ≤ 4
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : ) people occupy the seats in the bus. The passengers entering the bus are numbered from 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  :  to 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  (in the order of their entering the bus). The pattern of the seat occupation is as below:
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row left window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row right window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 2
+Encountered an end tag : span
+Encountered some data  : -nd row left window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 2
+Encountered an end tag : span
+Encountered some data  : -nd row right window seat, ... , 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row left window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row right window seat.
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered some data  : After occupying all the window seats (for 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered some data  :  
+Encountered some data  :  2
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : ) the non-window seats are occupied:
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row left non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row right non-window seat, ... , 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row left non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row right non-window seat.
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered some data  : All the passengers go to a single final destination. In the final destination, the passengers get off in the given order.
+Encountered an end tag : p
+Encountered a start tag: p []
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row left non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row left window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row right non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  : -st row right window seat, ... , 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row left non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row left window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row right non-window seat, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : -th row right window seat.
+Encountered an end tag : p
+Encountered a start tag: center []
+Encountered some data  :  
+Encountered a start tag: img [('class', 'tex-graphics'), ('src', 'http://codeforces.com/predownloaded/c1/21/c12130521e2098c15860b26e3c182aaf201c16f3.png'), ('style', 'max-width: 100.0%;max-height: 100.0%;')]
+Encountered an end tag : img
+Encountered some data  :  
+Encountered a start tag: span [('class', 'tex-font-size-small')]
+Encountered some data  : The seating for 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered some data  :  = 9
+Encountered an end tag : span
+Encountered some data  :  and 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered some data  :  = 36
+Encountered an end tag : span
+Encountered some data  : .
+Encountered an end tag : span
+Encountered some data  :  
+Encountered an end tag : center
+Encountered a start tag: p []
+Encountered some data  : You are given the values 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  and 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : . Output 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  numbers from 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  :  to 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : , the order in which the passengers will get off the bus.
+Encountered an end tag : p
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'input-specification')]
+Encountered a start tag: div [('class', 'section-title')]
+Encountered some data  : Input
+Encountered an end tag : div
+Encountered a start tag: p []
+Encountered some data  : The only line contains two integers, 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  and 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  (
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1 ≤ 
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered some data  :  ≤ 100, 1 ≤ 
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered some data  :  ≤ 4
+Encountered a start tag: i []
+Encountered some data  : n
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  : ) — the number of pairs of rows and the number of passengers.
+Encountered an end tag : p
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'output-specification')]
+Encountered a start tag: div [('class', 'section-title')]
+Encountered some data  : Output
+Encountered an end tag : div
+Encountered a start tag: p []
+Encountered some data  : Print 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  distinct integers from 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered some data  : 1
+Encountered an end tag : span
+Encountered some data  :  to 
+Encountered a start tag: span [('class', 'tex-span')]
+Encountered a start tag: i []
+Encountered some data  : m
+Encountered an end tag : i
+Encountered an end tag : span
+Encountered some data  :  — the order in which the passengers will get off the bus.
+Encountered an end tag : p
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'sample-tests')]
+Encountered a start tag: div [('class', 'section-title')]
+Encountered some data  : Examples
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'sample-test')]
+Encountered a start tag: div [('class', 'input')]
+Encountered a start tag: div [('class', 'title')]
+Encountered some data  : Input
+Encountered an end tag : div
+Encountered a start tag: pre []
+Encountered some data  : 2 7
+Encountered a start tag: br []
+Encountered an end tag : br
+Encountered an end tag : pre
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'output')]
+Encountered a start tag: div [('class', 'title')]
+Encountered some data  : Output
+Encountered an end tag : div
+Encountered a start tag: pre []
+Encountered some data  : 5 1 6 2 7 3 4
+Encountered a start tag: br []
+Encountered an end tag : br
+Encountered an end tag : pre
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'input')]
+Encountered a start tag: div [('class', 'title')]
+Encountered some data  : Input
+Encountered an end tag : div
+Encountered a start tag: pre []
+Encountered some data  : 9 36
+Encountered a start tag: br []
+Encountered an end tag : br
+Encountered an end tag : pre
+Encountered an end tag : div
+Encountered a start tag: div [('class', 'output')]
+Encountered a start tag: div [('class', 'title')]
+Encountered some data  : Output
+Encountered an end tag : div
+Encountered a start tag: pre []
+Encountered some data  : 19 1 20 2 21 3 22 4 23 5 24 6 25 7 26 8 27 9 28 10 29 11 30 12 31 13 32 14 33 15 34 16 35 17 36 18
+Encountered a start tag: br []
+Encountered an end tag : br
+Encountered an end tag : pre
+Encountered an end tag : div
+Encountered an end tag : div
+Encountered an end tag : div
+Encountered an end tag : div
+Encountered a start tag: p []
+Encountered some data  :   
+Encountered an end tag : p
+Encountered an end tag : div
+Encountered some data  : 
+
+Encountered an end tag : div
+Encountered some data  : 
+
+
+
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+    $(document).ready(function () {
+        function endsWith(string, suffix) {
+            return string.indexOf(suffix, string.length - suffix.length) !== -1;
+        }
+
+        var inputFileDiv = $("div.input-file");
+        var inputFile = inputFileDiv.text();
+        var outputFileDiv = $("div.output-file");
+        var outputFile = outputFileDiv.text();
+
+        if (!endsWith(inputFile, "standard input")
+                && !endsWith(inputFile, "standard input")) {
+            inputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        if (!endsWith(outputFile, "standard output")
+                && !endsWith(outputFile, "standard output")) {
+            outputFileDiv.attr("style", "font-weight: bold");
+        }
+
+        var titleDiv = $("div.header div.title");
+
+
+
+    });
+
+Encountered an end tag : script
+Encountered some data  : 
+                
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: br [('style', 'clear: both;')]
+Encountered an end tag : br
+Encountered some data  : 
+            
+Encountered a start tag: div [('id', 'footer')]
+Encountered some data  : 
+                
+Encountered a start tag: div []
+Encountered a start tag: a [('href', 'http://codeforces.com/')]
+Encountered some data  : Codeforces
+Encountered an end tag : a
+Encountered some data  :  (c) Copyright 2010-2016 Mike Mirzayanov
+Encountered an end tag : div
+Encountered some data  : 
+                
+Encountered a start tag: div []
+Encountered some data  : The only programming contests Web 2.0 platform
+Encountered an end tag : div
+Encountered some data  : 
+                    
+Encountered a start tag: div []
+Encountered some data  : Server time: 
+Encountered a start tag: span [('class', 'format-timewithseconds'), ('data-locale', 'en')]
+Encountered some data  : Jun/09/2016 07:22:54
+Encountered an end tag : span
+Encountered some data  :  (c2).
+Encountered an end tag : div
+Encountered some data  : 
+                    Desktop version, switch to 
+Encountered a start tag: a [('rel', 'nofollow'), ('class', 'switchToMobile'), ('href', '?mobile=true')]
+Encountered some data  : mobile version
+Encountered an end tag : a
+Encountered some data  : .
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+            $(function() {
+                $(".switchToMobile").click(function() {
+                    Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", "true"));
+                    return false;
+                });
+                $(".switchToDesktop").click(function() {
+                    Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", "false"));
+                    return false;
+                });
+            });
+        
+Encountered an end tag : script
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+        $(document).ready(function () {
+            if ($(window).width() < 1600) {
+                $('.button-up').css('width', '30px').css('line-height', '30px').css('font-size', '20px');
+            }
+
+            if ($(window).width() >= 1200) {
+                $ (window).scroll (function () {
+                    if ($ (this).scrollTop () > 100) {
+                        $ ('.button-up').fadeIn();
+                    } else {
+                        $ ('.button-up').fadeOut();
+                    }
+                });
+
+                $('.button-up').click(function () {
+                    $('body,html').animate({
+                        scrollTop: 0
+                    }, 500);
+                    return false;
+                });
+
+                $('.button-up').hover(function () {
+                    $(this).animate({
+                        'opacity':'1'
+                    }).css({'background-color':'#e7ebf0','color':'#6a86a4'});
+                }, function () {
+                    $(this).animate({
+                        'opacity':'0.7'
+                    }).css({'background':'none','color':'#d3dbe4'});;
+                });
+            }
+            Codeforces.focusOnError();
+        });
+    
+Encountered an end tag : script
+Encountered some data  : 
+
+        
+Encountered a start tag: div [('class', 'userListsFacebox'), ('style', 'display:none;')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('style', 'padding: 0.5em; width: 600px; max-height: 200px; overflow-y: auto')]
+Encountered some data  : 
+
+Encountered a start tag: div [('class', 'datatable'), ('style', 'background-color: #E1E1E1; padding-bottom: 3px;')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'lt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'rt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'lb')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'rb')]
+Encountered an end tag : div
+Encountered some data  : 
+
+            
+Encountered a start tag: div [('style', 'padding: 4px 0 0 6px;font-size:1.4rem;position:relative;')]
+Encountered some data  : 
+                User lists
+
+                
+Encountered a start tag: div [('style', 'position:absolute;right:0.25em;top:0.35em;')]
+Encountered some data  : 
+                    
+Encountered a start tag: span [('style', 'padding:0;position:relative;bottom:2px;'), ('class', 'rowCount')]
+Encountered an end tag : span
+Encountered some data  : 
+
+                    
+Encountered a start tag: img [('class', 'closed'), ('src', 'http://st.codeforces.com/s/95142/images/icons/control.png')]
+Encountered an end tag : img
+Encountered some data  : 
+
+                    
+Encountered a start tag: span [('class', 'filter'), ('style', 'display:none;')]
+Encountered some data  : 
+                        
+Encountered a start tag: img [('class', 'opened'), ('src', 'http://st.codeforces.com/s/95142/images/icons/control-270.png')]
+Encountered an end tag : img
+Encountered some data  : 
+                        
+Encountered a start tag: input [('style', 'padding:0;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;')]
+Encountered an end tag : input
+Encountered some data  : 
+                    
+Encountered an end tag : span
+Encountered some data  : 
+                
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('style', 'background-color: white;margin:0.3em 3px 0 3px;position:relative;')]
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'ilt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: div [('class', 'irt')]
+Encountered an end tag : div
+Encountered some data  : 
+            
+Encountered a start tag: table [('class', '')]
+Encountered some data  : 
+                    
+Encountered a start tag: thead []
+Encountered some data  : 
+                    
+Encountered a start tag: tr []
+Encountered some data  : 
+                        
+Encountered a start tag: th []
+Encountered some data  : Name
+Encountered an end tag : th
+Encountered some data  : 
+                    
+Encountered an end tag : tr
+Encountered some data  : 
+                    
+Encountered an end tag : thead
+Encountered some data  : 
+                    
+Encountered a start tag: tbody []
+Encountered some data  : 
+                    
+Encountered an end tag : tbody
+Encountered some data  : 
+            
+Encountered an end tag : table
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+    
+Encountered a start tag: script [('type', 'text/javascript')]
+Encountered some data  : 
+        $(document).ready(function () {
+                // Create new ':containsIgnoreCase' selector for search
+                jQuery.expr[':'].containsIgnoreCase = function(a, i, m) {
+                    return jQuery(a).text().toUpperCase()
+                            .indexOf(m[3].toUpperCase()) >= 0;
+                };
+
+                if (window.updateDatatableFilter == undefined) {
+                    window.updateDatatableFilter = function(i) {
+                        var parent = $(i).parent().parent().parent().parent();
+                        $("tr.no-items", parent).remove();
+                        $("tr", parent).hide().removeClass('visible');
+                        var text = $(i).val();
+                        if (text) {
+                            $("tr" + ":containsIgnoreCase('" + text + "')", parent).show().addClass('visible');
+                        } else {
+                            parent.find(".rowCount").text("");
+                            $("tr", parent).show().addClass('visible');
+                        }
+
+                        var found = false;
+                        var visibleRowCount = 0;
+                        $("tr", parent).each(function () {
+                            if (!found) {
+                                if ($(this).find("th").size() > 0) {
+                                    $(this).show().addClass('visible');
+                                    found = true;
+                                }
+                            }
+                            if ($(this).hasClass('visible')) {
+                                visibleRowCount++;
+                            }
+                        });
+                        if (text) {
+                            parent.find(".rowCount").text("Matches: " + (visibleRowCount - (found ? 1 : 0)));
+                        }
+                        if (visibleRowCount == (found ? 1 : 0)) {
+                            $("<tr class='no-items visible'><td style=\"text-align:left;\"colspan=\"32\">No items<\/td><\/tr>").appendTo($(parent).find('table'));
+                        }
+                        $(parent).find("tr td").removeClass("dark");
+                        $(parent).find("tr.visible:odd td").addClass("dark");
+                    }
+
+                    $(".datatable .closed").click(function () {
+                        var parent = $(this).parent();
+                        $(this).hide();
+                        $(".filter", parent).fadeIn(function () {
+                            $("input", parent).val("").focus().css("border", "1px solid #aaa");
+                        });
+                    });
+
+                    $(".datatable .opened").click(function () {
+                        var parent = $(this).parent().parent();
+                        $(".filter", parent).fadeOut(function () {
+                            $(".closed", parent).show();
+                            $("input", parent).val("").each(function () {
+                                window.updateDatatableFilter(this);
+                            });
+                        });
+                    });
+
+                    $(".datatable .filter input").keyup(function(e) {
+                        window.updateDatatableFilter(this);
+                        e.preventDefault();
+                        e.stopPropagation();
+                    });
+
+                    $(".datatable table").each(function () {
+                        var found = false;
+                        $("tr", this).each(function () {
+                            if (!found && $(this).find("th").size() == 0) {
+                                found = true;
+                            }
+                        });
+                        if (!found) {
+                            $("<tr class='no-items visible'><td style=\"text-align:left;\"colspan=\"32\">No items<\/td><\/tr>").appendTo(this);
+                        }
+                    });
+
+                    // Applies styles to datatables.
+                    $(".datatable").each(function () {
+                        $(this).find("tr:first th").addClass("top");
+                        $(this).find("tr:last td").addClass("bottom");
+                        $(this).find("tr:odd td").addClass("dark");
+                        $(this).find("tr td:first-child, tr th:first-child").addClass("left");
+                        $(this).find("tr td:last-child, tr th:last-child").addClass("right");
+                    });
+
+                    $(".datatable table.tablesorter").each(function () {
+                        $(this).bind("sortEnd", function () {
+                            $(".datatable").each(function () {
+                                $(this).find("th, td")
+                                    .removeClass("top").removeClass("bottom")
+                                    .removeClass("left").removeClass("right")
+                                    .removeClass("dark");
+                                $(this).find("tr:first th").addClass("top");
+                                $(this).find("tr:last td").addClass("bottom");
+                                $(this).find("tr:odd td").addClass("dark");
+                                $(this).find("tr td:first-child, tr th:first-child").addClass("left");
+                                $(this).find("tr td:last-child, tr th:last-child").addClass("right");
+                            });
+                        });
+                    });
+                }
+        });
+    
+Encountered an end tag : script
+Encountered some data  : 
+            
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered an end tag : div
+Encountered some data  : 
+        
+Encountered a start tag: script [('type', 'application/javascript')]
+Encountered some data  : 
+            $(function() {
+                $(".userListMarker").click(function() {
+                    $.post("/data/lists", {action: "findTouched"}, function(json) {
+                        Codeforces.facebox(".userListsFacebox");
+                        var tbody = $("#facebox tbody");
+                        tbody.empty();
+                        for (var i in json) {
+                            tbody.append(
+                                    $("<tr></tr>").append(
+                                            $("<td></td>").attr("data-readKey", json[i].readKey).text(json[i].name)
+                                    )
+                            );
+                        }
+                        Codeforces.updateDatatables();
+                        tbody.find("td").css("cursor", "pointer").click(function() {
+                            document.location = Codeforces.updateUrlParameter(document.location.href, "list", $(this).attr("data-readKey"));
+                        });
+                    }, "json");
+                });
+            });
+        
+Encountered an end tag : script
+Encountered some data  : 
+
+Encountered an end tag : body
+Encountered some data  : 
+
+Encountered an end tag : html
+Encountered some data  : 
+
